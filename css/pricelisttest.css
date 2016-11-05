@@ -225,12 +225,13 @@ padding: 0 10px;
 .cart {
   position: absolute;
   display: block;
-  margin-bottom: 10%;
+  bottom: 40%;
+  right: -10%;	
   text-align: center;	
 }
 .dropdowncustom {
   position: absolute;
   display: block;
   float: left;
-  margin-bottom: 50%; 
+  bottom: 40%;
 }
