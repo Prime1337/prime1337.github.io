@@ -226,8 +226,7 @@ padding: 0 10px;
   position: absolute;
   display: block;
   bottom: 0px;
-  margin-right: auto;
-  margin-left: auto;
+  left: 25%;
 }
 .dropdowncustom {
   position: absolute;
