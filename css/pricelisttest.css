@@ -202,7 +202,7 @@ background-color: #128F76;
 .details {
 color: #222;
 display: block;
-float: left;
+text-align: center;	
 height: 46px;
 margin: 8px 0;
 padding: 0 10px;
