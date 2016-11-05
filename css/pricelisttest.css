@@ -225,7 +225,8 @@ padding: 0 10px;
 .cart {
   position: absolute;
   display: block;
-  bottom: 0px;
+  bottom: 5%;
+  text-align: center;	
 }
 .dropdowncustom {
   position: absolute;
