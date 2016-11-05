@@ -232,6 +232,6 @@ padding: 0 10px;
 .dropdowncustom {
   position: absolute;
   display: block;
-  float: left;
+  left: 0;
   margin-bottom: 50%; 
 }
