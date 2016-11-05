@@ -226,12 +226,12 @@ padding: 0 10px;
   position: absolute;
   display: block;
   margin-bottom: 50%;
-  right: 0;
+  right: -5%;
   text-align: center;	
 }
 .dropdowncustom {
   position: absolute;
   display: block;
-  left: 0;
+  float: left;
   margin-bottom: 50%; 
 }
